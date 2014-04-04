@@ -1,0 +1,29 @@
+{
+  "family": "ct-temp",
+  "name": "box",
+  "version": "1.0.0",
+  "description": "The box module",
+  "homepage": "https://github.com/ctkj-czpp9v1/box",
+  "author": "xuhp",
+  "maintainers": [
+    "xuhp"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ctkj-czpp9v1/box.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "box.js",
+      "box.css"
+    ],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
